@@ -44,14 +44,6 @@
 __IO uint16_t nCountAmpe =0,nCountTemp=0; 
 
 #define NUMCHANNEL 3
-//__IO uint16_t ADC_ConvertedValue[NUMCHANNEL];  // Votl + Ampe + Temp
-
-// Main
-//__IO float tempVolt = 0,tempAmpe=0,realVolt=0,realVolt2=0,realAmpe=0,tempNhiet=280,tempNhiet2,tempNhiet3;
-//__IO uint16_t nCountTemp=0, nCountAmpe = 0; 
-//__IO uint8_t over70=0, over50A =0; 
-//uint32_t nCountReset =0; 
-//uint8_t check6s = 0,OKRead=0,OKRead2=0; 
 
 
 /* Private function prototypes -----------------------------------------------*/
